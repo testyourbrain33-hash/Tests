@@ -2,11 +2,11 @@
   #EXTINF:-1 tvg-id="disneychannel" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/disneychannel.png" group-title="Kids",Disney Channel
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 #EXTINF:-1 tvg-id="starsports1kannada" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsports1kannada.png" group-title="Sports",Star Sports 1 
-https://starshare.org:443/live/972460763686/641570873679/215.ts
+https://starshare.org:443/live/3033516711/837973984/215.ts
 #EXTM3U
 
 #EXTINF:-1 tvg-id="nplchannel" tvg-logo="" group-title="Kids",NPL Channel (Nplnwith Live)
-https://starshare.org:443/live/972460763686/641570873679/148801.ts
+https://starshare.org:443/live/3033516711/837973984/148801.ts
 #EXTINF:-1 tvg-id="disneychannel" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/disneychannel.png" group-title="Kids",Disney Channel dish
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 
@@ -20,7 +20,7 @@ http://xott.live:8080/live/Feroz1972/1972Feroz/167551.ts
 http://103.182.170.32:8888/play/a04g
 
 #EXTINF:-1 tvg-id="Disney Hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/disneychannel.png" group-title="kids",Disney Hd
-https://starshare.org:443/live/972460763686/641570873679/19741.ts
+https://starshare.org:443/live/3033516711/837973984/19741.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Kids: Hungama" tvg-logo="" group-title="KIDS",Kids: Hungama ott
 http://xott.live:8080/live/z1K340ae8vrT8VimRwfXGWYjgTGMj09xE/k5bcFyTK2Bkg6rB13YVI1ZgoKW8rY24Hd/150480.ts
@@ -31,7 +31,7 @@ https://port.denver1769.fun/ditto/index.m3u8?id=2546
 https://port.denver1769.fun/ditto/index.m3u8?id=251
 
 #EXTINF:-1 tvg-id="hungama.in" tvg-name="KIDS: SUPER HUNGAMA" tvg-logo="" group-title="KIDS",KIDS: SUPER HUNGAMA
-https://starshare.org:443/live/972460763686/641570873679/66162.ts
+https://starshare.org:443/live/3033516711/837973984/66162.ts
 
 #EXTINF:-1 tvg-id="disneyjunior" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/disneyjunior.png" group-title="Kids",Disney Junior
 https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
@@ -40,10 +40,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kids: Hungama" tvg-logo="" group-title="KIDS",Kids: Hungama Star
-https://starshare.org:443/live/972460763686/641570873679/18456.ts
+https://starshare.org:443/live/3033516711/837973984/18456.ts
 
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KIDS",IN: Disney Channel (4K)
-https://starshare.org:443/live/972460763686/641570873679/19741.ts
+https://starshare.org:443/live/3033516711/837973984/19741.ts
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/hungama.png" group-title="Kids",Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
@@ -3871,5 +3871,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/loveworld/master.m3u8
 
 #EXTINF:-1 tvg-id="gujaratwildtv" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/gujaratwildtv.png" group-title="Infotainment",Gujarat  Wild TV
 https://live.dinesh29.com.np/stream/jiotvplus/gujaratwildtv/master.m3u8
+
 
 
